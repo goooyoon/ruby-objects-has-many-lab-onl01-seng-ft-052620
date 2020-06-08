@@ -22,9 +22,5 @@ end
 def self.post_count
   Post.all.count
 end
-
-  
-  def self.song_count
-     Song.all.count
-  end
 end
+  
